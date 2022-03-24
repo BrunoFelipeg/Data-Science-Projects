@@ -22,10 +22,8 @@ This is the repo in which I post my data science, machine learning and deep lear
  # About me :
  
  
-I'm a quality assurance recent data science, it was passion in the first ''case''.
-I have a degree in data science and I will share my cases here and on my social networks.
+Sou Quality Assurance, faço graduação em ciência de dados e irei comparilhar meus cases aqui e nas minhas redes socais.
 
-Right now, I’m currently working for a Brazilian DS platform and I am also a freelancer 
 
 Aplications:
 
