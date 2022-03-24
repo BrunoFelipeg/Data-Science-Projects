@@ -26,4 +26,4 @@ Sou Quality Assurance, faço graduação em ciência de dados e irei comparilhar
 
 Ajudo as pessoas no desenvolvimento pessoal e profissional, indicações de livros, aulas de informática, português, matemática e RLM 👨‍🏫
 
-Caso precisem de alguma ajuda não exite em pedir, até logo 👨‍💻
+Caso precisem de alguma ajuda não hesite em pedir, até logo 👨‍💻
