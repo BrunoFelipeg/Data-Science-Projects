@@ -5,7 +5,7 @@
 Este é o repositório em que posto meus projetos de ciência de dados, aprendizado de máquina e aprendizado profundo
 # Projetos :
 
- - [Buying_a car_as_a_DataScientist](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Buying_acar_as_a_DataScientist)
+ - [Buying_a car_as_a_DataScientist](https://github.com/BrunoFelipeg/Data-Science-Projects/tree/main/Previs%C3%A3o%20do%20tempo)
  - [Customer_Segmentation_Report](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Customer_Segmentation_Report)
  - [Plagiarism_Detection](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Project_Plagiarism_Detection)
  - [Youtube Video Reccomendation System](https://github.com/jmcabreira/Data-Science-Projects/blob/master/Youtube_Video_Recommendation_System/README.md)
