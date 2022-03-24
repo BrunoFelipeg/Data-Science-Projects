@@ -2,8 +2,8 @@
 ![](image/CabreiraLogo.png)
 
 
-This is the repo in which I post my data science, machine learning and deep learning projects
-# Projects :
+Este é o repositório em que posto meus projetos de ciência de dados, aprendizado de máquina e aprendizado profundo
+# Projetos :
 
  - [Buying_a car_as_a_DataScientist](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Buying_acar_as_a_DataScientist)
  - [Customer_Segmentation_Report](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Customer_Segmentation_Report)
