@@ -24,6 +24,6 @@ This is the repo in which I post my data science, machine learning and deep lear
  
 Sou Quality Assurance, faço graduação em ciência de dados e irei comparilhar meus cases aqui e nas minhas redes socais 🎓
 
-Ajudo as pessoas no desenvolvimento pessoal e profissional, indicações de livros, aulas de informática, português, matmática e RLM 👨‍🏫
+Ajudo as pessoas no desenvolvimento pessoal e profissional, indicações de livros, aulas de informática, português, matemática e RLM 👨‍🏫
 
 Caso precisem de alguma ajuda não exite em pedir, até logo 👨‍💻
