@@ -1,7 +1,4 @@
 
-![](image/CabreiraLogo.png)
-
-
 Este é o repositório em que posto meus projetos de ciência de dados, aprendizado de máquina e aprendizado profundo
 # Projetos :
 
