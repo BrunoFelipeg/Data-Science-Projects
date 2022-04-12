@@ -2,7 +2,7 @@
 Este é o repositório em que posto meus projetos de ciência de dados, aprendizado de máquina e aprendizado profundo
 # Projetos :
 
- - [Previsão do tempo](https://github.com/BrunoFelipeg/Data-Science-Projects/tree/main/Previs%C3%A3o%20do%20tempo)
+ - [Previsão do tempo](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Previs%C3%A3o_do_tempo.ipynb)
  - [Machine Learning - Vendas](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Machine_Learning_para_vendas.ipynb)
  - [Customer_Segmentation_Report](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Customer_Segmentation_Report)
  - [Plagiarism_Detection](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Project_Plagiarism_Detection)
