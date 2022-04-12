@@ -8,7 +8,7 @@ Este é o repositório em que posto meus projetos de ciência de dados, aprendiz
  
  # About me :
  
- Sou um Analista de Sistema que está migrando para cientista de dados e adora alavancar soluções orientadas por dados que causam impacto nos negócios e na sociedade. Meu primeiro encontro com ciência de dados ocorreu quando eu trabalhava com CPD (Central de Processamento de Dados) no qual ajudei no desenvolvimento desse cenário na empresa.
+ Sou um Analista de Sistema que está migrando para Data Science e adora alavancar soluções orientadas por dados que causam impacto nos negócios e na sociedade. Meu primeiro encontro com ciência de dados ocorreu quando eu[ trabalhava com CPD (Central de Processamento de Dados) no qual ajudei no desenvolvimento desse cenário na empresa.
 
 Depois disso, ganhei uma bolsa de estudos (graduação) que me permitiu estudar na Ampli, em São Paulo. 
 
