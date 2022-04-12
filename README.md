@@ -4,18 +4,7 @@ Este é o repositório em que posto meus projetos de ciência de dados, aprendiz
 
  - [Previsão do tempo](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Previs%C3%A3o_do_tempo.ipynb)
  - [Machine Learning - Vendas](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Machine_Learning_para_vendas.ipynb)
- - [Customer_Segmentation_Report](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Customer_Segmentation_Report)
- - [Plagiarism_Detection](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Project_Plagiarism_Detection)
- - [Youtube Video Reccomendation System](https://github.com/jmcabreira/Data-Science-Projects/blob/master/Youtube_Video_Recommendation_System/README.md)
- - [Movie Review WebApp](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Movie%20Review%20Web%20App)
- - [Spotify Music Recommender](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Spotify_music_recommender)
- - [A-Music-Taste-Analysis-Using-Spotify-API-and-Python](https://github.com/jmcabreira/Data-Science-Projects/blob/master/A-Music-Taste-Analysis-Using-Spotify-API-and-Python./Playlist_analysis_%20.ipynb)
- - [Energy_generation_forecast](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Energy_generation_forecast)
- -  [Student Grades Prediction (National High School Exam) - 2016](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Student_grade_prediction_ENEM)
- - [Basic-Diabetes-Predicton-Using-Machine-Learning](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Basic-Diabetes-Predicton-Using-Machine-Learning)
- - [Do-Females-employees-make-less-money-](https://github.com/jmcabreira/Data-Science-Projects/blob/master/Do-Females-employees-make-less-money-/Survey_Salary2.ipynb)
- - [Machine-Learning-with-Apache-Spark](https://github.com/jmcabreira/Data-Science-Projects/tree/master/Pyspark)
- - [Understanding-consumer-behavior-on-Black-Friday](https://github.com/jmcabreira/Data-Science-Projects/blob/master/Understanding-consumer-behavior-on-Black-Friday/Black_Friday.ipynb)
+ 
  
  # About me :
  
