@@ -4,7 +4,7 @@ Este é o repositório em que posto meus projetos de ciência de dados, aprendiz
 
  - [Previsão do tempo](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Previs%C3%A3o_do_tempo.ipynb)
  - [Machine Learning - Vendas](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Machine_Learning_para_vendas.ipynb)
- - [Previsão Passagem Aérea](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Passagem_A%C3%A9rea.ipynb)
+ - [Previsão Passagem Aérea](https://github.com/BrunoFelipeg/Data-Science-Projects/blob/main/Prevendo_Pre%C3%A7o_das_Passagens_A%C3%A9reas.ipynb)
  
  
  # About me :
